@@ -1,0 +1,34 @@
+{
+  "name": "show-tree",
+  "version": "1.0.0",
+  "description": "Control your Show Tree WiFi christmas tree with Alexa (Amazon Echo)",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^2.2.0",
+    "udp-transport": "^0.1.2",
+    "sprintf-js": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dale3h/show-tree.git"
+  },
+  "keywords": [
+    "show-tree",
+    "christmas",
+    "tree",
+    "lights",
+    "alexa-app",
+    "alexa-app-server",
+    "node.js"
+  ],
+  "author": "Dale Higgs <dale3h@gmail.com> (http://dale3h.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dale3h/show-tree/issues"
+  },
+  "homepage": "https://github.com/dale3h/show-tree#readme"
+}
